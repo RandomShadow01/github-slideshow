@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+I live with someone that looks exactly like meeeeeeeeeeeeee
 Use the left arrow to go back!
